@@ -1,5 +1,5 @@
 # Eric Smekens
-Hi, I'm Eric, a senior developer at CM.com working on several messaging related products(SMS, Viber, WhatsApp). I live in Dorst, a small village near Breda in the Netherlands. 🙌
+Hi, I'm Eric, a lead developer at CM.com working on several messaging related products(SMS, Viber, WhatsApp). I live in Dorst, a small village near Breda in the Netherlands. 🙌
 
 ## My values, explained by my favorite proverbs
 
